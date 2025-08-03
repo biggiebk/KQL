@@ -12,3 +12,13 @@
 - [Count](count.md)
 - [Summarize](summarize.md)
 - [Take](take.md)
+
+### Functions
+
+- Count
+- Avg
+- Min
+- Max
+- Sum
+- Bin
+- Sort
