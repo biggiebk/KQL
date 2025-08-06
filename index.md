@@ -24,3 +24,4 @@
 - Sort
 - ago
 - getschema
+- strcat
