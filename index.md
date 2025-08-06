@@ -22,3 +22,5 @@
 - Sum
 - Bin
 - Sort
+- ago
+- getschema
