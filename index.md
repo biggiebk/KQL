@@ -15,13 +15,8 @@
 
 ### Functions
 
-- Count
-- Avg
 - Min
 - Max
 - Sum
 - Bin
-- Sort
-- ago
 - getschema
-- strcat
